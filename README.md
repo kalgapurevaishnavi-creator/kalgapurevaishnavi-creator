@@ -25,7 +25,7 @@
 - 📊 Strong foundation in **Python, SQL, Pandas, NumPy & Scikit-learn**
 - 🚀 Interested in solving real-world problems using AI
 - 💼 Looking for **Data Scientist / AI Engineer** opportunities
-- 📫 Reach me at: **your-email@gmail.com**
+- 📫 Reach me at: kalgapurevaishnavi@gmail.com
 - 📍 Based in India
 ---
 
