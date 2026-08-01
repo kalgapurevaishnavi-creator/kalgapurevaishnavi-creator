@@ -43,10 +43,7 @@
 
 ---
 
-<p align="center">
-  <i>"Data is the new oil, but AI Agents are the refinery."</i><br/>
-  <b>— Sumit Sartale</b>
-</p>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
