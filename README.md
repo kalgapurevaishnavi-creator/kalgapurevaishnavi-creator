@@ -14,16 +14,6 @@
   <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-success?style=flat" />
 </p>
 
-<h3 align="center">🚀 Senior Data Scientist & AI Agents Engineer | Hyderabad, India</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sumitsartale4952&label=Profile%20views&color=0e75b6&style=flat" alt="sumitsartale4952" />
-  <img src="https://img.shields.io/badge/Experience-4%2B%20Years-brightgreen?style=flat" />
-  <img src="https://img.shields.io/badge/Focus-AI%20Agents%20%26%20LLMs-blue?style=flat" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-success?style=flat" />
-</p>
-
-<img align="right" alt="AI coding" width="380" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
 
 ---
 
