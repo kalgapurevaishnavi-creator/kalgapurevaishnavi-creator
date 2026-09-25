@@ -1,40 +1,72 @@
-# Vaishnavi-Kalgapure
+# vaishnavikalgapure
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Vaishnavi+Kalgapure;Aspiring+Data+Scientist+%7C+AI+Engineer;Fresher;Passionate+About+AI+%26+Machine+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Vaishnavi+Kalgapure;B.Sc+Computer+Science+Graduate;Aspiring+Data+Scientist;Passionate+About+Python+%26+Data+Science" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">
-🚀 Aspiring Data Scientist & AI Engineer | India
+🚀 B.Sc. Computer Science Graduate | Aspiring Data Scientist | India
 </h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Experience-Fresher-brightgreen?style=flat" />
-  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Data%20Science-blue?style=flat" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-success?style=flat" />
-</p>
+## 👩‍💻 About Me
 
+* 🎓 Completed **Bachelor of Science in Computer Science**
 
----
+* 🏫 Graduated from **College of Computer Science and Information Technology (COCSIT), Latur**
 
-## 👨‍💻 About Me
+* 🎓 Affiliated with **Swami Ramanand Teerth Marathwada University (SRTMUN), Nanded**
 
-- 🎓 Fresher passionate about **Data Science, Machine Learning & AI**
-- 🤖 Learning **LLMs, AI Agents, LangChain & Generative AI**
-- 🌱 Currently building projects in **Python, Machine Learning & Data Analytics**
-- 📊 Strong foundation in **Python, SQL, Pandas, NumPy & Scikit-learn**
-- 🚀 Interested in solving real-world problems using AI
-- 💼 Looking for **Data Scientist / AI Engineer** opportunities
-- 📫 Reach me at: kalgapurevaishnavi@gmail.com
-- 📍 Based in India
----
+* 📅 **July 2023 – June 2026**
 
+* 🏆 Achieved **Grade: O (Outstanding) | CGPA: 9.42/10**
 
+* 💡 Passionate about **Data Science, Artificial Intelligence & Machine Learning**
 
----
+* 🌱 Improving my skills in **Python, Pandas, NumPy, SQL, Machine Learning & Data Analytics**
 
+* 🚀 Building **real-world projects** to strengthen my practical experience
 
+* 📊 Interested in solving real-world problems using **data-driven solutions**
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+* 💼 Open to **Internships and Entry-Level Data Science / Data Analyst Roles**
+
+* 📍 Based in **India**
+
+*
+
+## 🛠️ Tech Toolbox
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>  
+
+</p>  
+
+## 📌 Featured Projects
+
+### 📊 Data Analysis Project
+
+> Exploratory Data Analysis using Python, Pandas, NumPy and Seaborn.
+
+### 🤖 Machine Learning Project
+
+> Machine learning model development, preprocessing, training and evaluation.
+
+### 🧹 Data Cleaning Project
+
+> End-to-end data cleaning using Pandas, including missing values, duplicates, outliers and data validation.
+
